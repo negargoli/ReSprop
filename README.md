@@ -6,7 +6,7 @@ ReSprop: Reuse Sparsified Backpropagation
 
 Negar Goli, Tor M. Aamodt
 
-![ReSprop Demo](ezgif.com-video-to-gif.gif)
+![ReSprop Demo](demo.gif)
 
 
 ## Requirements 
