@@ -28,7 +28,9 @@ The c++ code is availabe in backward folder.
 
 Build the costum c++ backward functions in the backward folder: 
 
+```
 python setup.py install 
+```
 
 Download ImageNet dataset and use uncropped data 
 
@@ -43,7 +45,11 @@ The algorithm can be run on up to 8 GPUs
 
 Example: ImageNet on resnet18 with 20% reuse sparsity and with warmup
 
+
+
+```
 python main_ImageNet.py -a resnet18 --sparsity 20  --warmup 1 PATH_TO_THE_IMAGENET_DATASET
+```
 
 ## Code explanation
 
