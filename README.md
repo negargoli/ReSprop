@@ -6,7 +6,9 @@ ReSprop: Reuse Sparsified Backpropagationnumpy
 
 Negar Goli, Tor M. Aamodt
 
-[Demo CountPages alpha](https://gifs.com/?source=https://storage.googleapis.com/user-uploaded-media/0928af50-fafa-4679-a8c2-5c8cc3cfb877.mp4)
+![ReSprop Demo](ezgif.com-video-to-gif.gif)
+
+
 ## Requirements 
 
 * Python 3.7.5
