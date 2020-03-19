@@ -6,7 +6,7 @@ ReSprop: Reuse Sparsified Backpropagationnumpy
 
 Negar Goli, Tor M. Aamodt
 
-[![Demo CountPages alpha](https://gifs.com/?source=https://storage.googleapis.com/user-uploaded-media/0928af50-fafa-4679-a8c2-5c8cc3cfb877.mp4)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://gifs.com/?source=https://storage.googleapis.com/user-uploaded-media/0928af50-fafa-4679-a8c2-5c8cc3cfb877.mp4)](https://gifs.com/?source=https://storage.googleapis.com/user-uploaded-media/0928af50-fafa-4679-a8c2-5c8cc3cfb877.mp4)
 
 
 ## Requirements 
