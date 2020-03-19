@@ -2,7 +2,7 @@
 
 This repository enables the reproduction of the experiments described in the CVPR 2020 paper:
 
-ReSprop: Reuse Sparsified Backpropagationnumpy
+ReSprop: Reuse Sparsified Backpropagation
 
 Negar Goli, Tor M. Aamodt
 
