@@ -45,7 +45,8 @@ The algorithm can be run on up to 8 GPUs
 --warmup: 1 means with warmup phase, 0 without
 
 
-Example: ImageNet on resnet18 with 20% reuse sparsity and with warmup
+Example: ImageNet on resnet18 with 80% reuse sparsity and with warmup (100-80=20%). 
+
 
 
 
