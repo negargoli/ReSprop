@@ -6,6 +6,8 @@ ReSprop: Reuse Sparsified Backpropagation
 
 Negar Goli, Tor M. Aamodt
 
+[Link to paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Goli_ReSprop_Reuse_Sparsified_Backpropagation_CVPR_2020_paper.pdf)
+
 ![ReSprop Demo](demo.gif)
 
 
