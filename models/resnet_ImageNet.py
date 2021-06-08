@@ -32,7 +32,7 @@ def conv1x1(in_planes, out_planes, layer_number, stride=1):
     """1x1 convolution"""
     
     
-    return  C.ReSConv2d(in_planes, out_planes, kernel_size=3, stride=stride, padding=1, bias=True, layer=layer_number, iteration=iteration_size, batch=batch_size, epoch=start_epoch, sparse=sparsity, warm=warmup)
+    return  C.ReSConv2d(in_planes, out_planes, kernel_size=1, stride=stride, padding=1, bias=True, layer=layer_number, iteration=iteration_size, batch=batch_size, epoch=start_epoch, sparse=sparsity, warm=warmup)
 
     #return C.MyConv2d(in_planes, out_planes, kernel_size=1, stride=stride, bias=False, name=layer_num, number=391, batch=1 , Epoch=1)
 
